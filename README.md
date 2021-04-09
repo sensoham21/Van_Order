@@ -28,6 +28,7 @@ Logic of the sample system: A record is created in van-order when user places an
 
 
 Questions:
+
 a) For hours with orders, how many orders are there each hour based on order time?
 
 b) What is the percentage of money spent for each of the following group of clients?
