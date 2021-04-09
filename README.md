@@ -29,9 +29,13 @@ Logic of the sample system: A record is created in van-order when user places an
 
 Questions:
 a) For hours with orders, how many orders are there each hour based on order time?
+
 b) What is the percentage of money spent for each of the following group of clients?
 	- Clients who completed 1 order
 	- Clients who completed more than 1 order
+	- 
 c) List of unique Client ID who completed at least one order, also show each client's total money spent, and the total order(s) completed. Order the list by total money spent (descending), then by total order(s) completed (descending)
+
 d) List of all drivers who took order(s) (regardless of whether they eventually complete the order), also show each driver's total income and total order(s) completed. Order the list by total income (descending), then by total order(s) completed
+
 e) List of driver ID who took orders, but never complete an order?
